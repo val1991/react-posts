@@ -1,0 +1,9 @@
+export const GET_ALL_POSTS = 'GET_ALL_POSTS';
+
+export const GET_ALL_POSTS_ERROR = 'GET_ALL_POSTS_ERROR';
+
+export const GET_DETAILS_POST = 'GET_DETAILS_POST';
+
+export const GET_DETAILS_POST_ERROR = 'GET_DETAILS_POST_ERROR';
+
+export const ADD_COMMENT = 'ADD_COMMENT';
